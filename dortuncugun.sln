@@ -3,7 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dortuncugun", "dortuncugun\dortuncugun.csproj", "{3A34DE86-42C2-4CBF-96C1-B804D1362D36}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "dortuncugun", "dortuncugun\dortuncugun.csproj", "{3A34DE86-42C2-4CBF-96C1-B804D1362D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{2AD20271-B335-40D2-AFFA-2AFCDE9B0D8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericIntro", "GenericIntro\GenericIntro.csproj", "{18241778-1795-451A-80A5-38DF19383E56}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{3A34DE86-42C2-4CBF-96C1-B804D1362D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A34DE86-42C2-4CBF-96C1-B804D1362D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A34DE86-42C2-4CBF-96C1-B804D1362D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD20271-B335-40D2-AFFA-2AFCDE9B0D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD20271-B335-40D2-AFFA-2AFCDE9B0D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD20271-B335-40D2-AFFA-2AFCDE9B0D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD20271-B335-40D2-AFFA-2AFCDE9B0D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{18241778-1795-451A-80A5-38DF19383E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18241778-1795-451A-80A5-38DF19383E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18241778-1795-451A-80A5-38DF19383E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18241778-1795-451A-80A5-38DF19383E56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
